@@ -3,8 +3,9 @@ name: tribal-thinking-detector
 description: Identify when reasoning has been corrupted by partisan loyalty using Orwell's framework from "Notes on Nationalism.
 license: MIT
 metadata:
+  version: 1.0.5225
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - tribal-thinking-detector
